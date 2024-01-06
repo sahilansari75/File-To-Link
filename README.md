@@ -31,7 +31,7 @@
 ##
 ## Installation
 #### Deploy on Render
-**<b>BEFORE DEPLOY ON RENDER, FORK REPO EDIT CONFIG, CREATE NEW WEB-SERVICE ADD VARIABLES AND ADD MONITOR THATS IT</b>
+<b>BEFORE DEPLOY ON RENDER, FORK REPO EDIT CONFIG, CREATE NEW WEB-SERVICE ADD VARIABLES AND ADD MONITOR THATS IT</b>
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com)
 
